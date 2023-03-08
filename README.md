@@ -25,7 +25,7 @@
 <h3 align="left">Badges</h3>
 <h5 align="left"> My GitHub Stats</h5>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=himeshsam93&show_icons=true&locale=en" alt="himeshsam93" /></p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <h3 align="left">Support Me</h3>
 <p><a href="https://www.buymeacoffee.com/himeshsam93"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="himeshsam93" /></a></p><br><br>
