@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Himesh Samarawickrama</h1>
 <h3 align="center">A passionate software engineering undergraduate from Sri Lanka is driven to create efficient, reliable, and innovative software solutions to solve real-world problems.</h3>
-<img src="https://applemagazine.com/wp-content/uploads/2021/03/e1a75d9ce16241ab960a1e84ed70eeed.gif" align="right" alt="Coding" width="400">
+<img src="https://applemagazine.com/wp-content/uploads/2021/03/e1a75d9ce16241ab960a1e84ed70eeed.gif" align="right" alt="Coding" width="400"><br>
 
 <p align="left"> <a href="https://twitter.com/himesh_sam" target="blank"><img src="https://img.shields.io/twitter/follow/himesh_sam?logo=twitter&style=for-the-badge" alt="himesh_sam" /></a> </p>
 
