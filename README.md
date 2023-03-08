@@ -1,4 +1,4 @@
-![MasterHead]<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <h1 align="center">Hi 👋, I'm Himesh Samarawickrama</h1>
 <h3 align="center">A passionate software engineering undergraduate from Sri Lanka is driven to create efficient, reliable, and innovative software solutions to solve real-world problems.</h3>
