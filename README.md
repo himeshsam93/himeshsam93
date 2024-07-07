@@ -1,6 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <h1 align="center">Hi 👋, I'm Himesh Samarawickrama</h1>
 <h3 align="center">Hey there! I'm Himesh Samarawickrama, a Software Engineering student with a passion for Full Stack Development. I am currently pursuing my BSc in Information Technology and loving every moment of it. With a strong background in programming, I am constantly seeking new challenges and opportunities to expand my skills</h3>
+<img src="https://applemagazine.com/wp-content/uploads/2021/03/e1a75d9ce16241ab960a1e84ed70eeed.gif" align="right" alt="Coding" width="400"><br>
 
 - 🌱 I’m currently learning **BSc in Information Technology**
 
